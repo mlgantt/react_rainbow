@@ -1,3 +1,5 @@
 import React from 'react';
 
-React.render(<h2>Hello, world!</h2>, document.getElementById("app"));
+import RainbowGenerator from './components/RainbowGenerator.react';
+
+React.render(<RainbowGenerator />, document.getElementById("app"));
