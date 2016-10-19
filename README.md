@@ -7,3 +7,5 @@ Here is my Rainbow React project. The app generates a rainbow that animates onto
 Get Started:
 
 Clone the repo and run 'npm install'.
+
+Run 'gulp serve' to build the project and start the server.
